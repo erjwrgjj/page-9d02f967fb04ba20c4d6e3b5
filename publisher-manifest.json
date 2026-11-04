@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "d3c876bc2f348c409deeaa07",
+  "owner": "erjwrgjj",
+  "repo": "page-9d02f967fb04ba20c4d6e3b5",
+  "title": "Precision",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9d02f967fb04ba20c4d6e3b5",
+      "a": "Precision",
+      "b": "",
+      "entity": "Precision",
+      "brand": "Precision",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0b51c2abe73ed9ac9a2587e2270283870d3f3bce532f4b225fd956678998f9ed",
+      "content": {
+        "keyword1": "Precision",
+        "keyword2": "",
+        "primary_entity": "Precision",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Precision官网提供Precision机场套餐价格说明、客户端配置指引与常见问题解答，涵盖基础版、旗舰版、团队版三种套餐的流量、设备数与线路权益，帮助新用户快速上手。",
+          "AI_DESCRIPTION": "Precision官网提供Precision机场套餐价格说明、客户端配置指引与常见问题解答，涵盖基础版、旗舰版、团队版三种套餐的流量、设备数与线路权益，帮助新用户快速上手。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--wine:#7a1f2b;--wine-deep:#5c1520;--ivory:#f7f1e3;--ivory-soft:#efe6d2;--ink:#2b1a1d;--line:#3a2126}\n*{box-sizing:border-box;margin:0;padding:0}\nbody{font-family:\"Songti SC\",\"Noto Serif SC\",STSong,serif;background:var(--ivory);color:var(--ink);line-height:1.85}\na{color:var(--wine);text-decoration:none;border-bottom:1px solid rgba(122,31,43,.4)}\na:hover{color:var(--wine-deep)}\n.layout{display:flex;min-height:100vh}\nnav.side{width:190px;flex-shrink:0;background:var(--wine);color:var(--ivory);padding:36px 22px;position:sticky;top:0;height:100vh;display:flex;flex-direction:column;gap:6px}\nnav.side .brand-mark{font-size:22px;font-weight:700;letter-spacing:.16em;color:var(--ivory);margin-bottom:26px;border-bottom:none}\nnav.side a{color:var(--ivory-soft);font-size:14px;letter-spacing:.1em;border-bottom:none;padding:7px 0;display:block;border-left:2px solid transparent;padding-left:12px}\nnav.side a:hover{color:#fff;border-left-color:var(--ivory)}\nmain{flex:1;min-width:0;padding:0 7% 80px}\nheader.hero{padding:64px 0 30px;max-width:820px}\nh1{font-size:clamp(34px,5.4vw,58px);letter-spacing:.06em;color:var(--wine);line-height:1.25}\n.hero .tag{margin-top:16px;font-size:17px;color:var(--ink)}\n.hero .tag strong{color:var(--wine)}\n/* 时间线引入 */\nol.timeline{list-style:none;margin:44px 0 70px;max-width:820px;border-left:3px solid var(--wine)}\nol.timeline li{position:relative;padding:10px 0 10px 34px}\nol.timeline li::before{content:\"\";position:absolute;left:-9px;top:22px;width:15px;height:15px;background:var(--ivory);border:3px solid var(--wine);border-radius:50%}\nol.timeline .tl-time{font-size:13px;letter-spacing:.2em;color:var(--wine)}\nol.timeline .tl-title{font-size:19px;font-weight:700;margin:2px 0 4px}\nol.timeline p{font-size:15px;color:#4d3a3e;max-width:640px}\nsection{margin-bottom:84px}\nh2{font-size:clamp(24px,3vw,32px);color:var(--wine);letter-spacing:.12em;margin-bottom:10px}\nh2 .sub{display:block;font-size:13px;color:#8a7a6d;letter-spacing:.3em;margin-top:6px;font-weight:400}\n.rule{width:64px;height:4px;background:var(--wine);margin-bottom:28px}\nh3{font-size:19px;color:var(--wine-deep);margin-bottom:10px}\np{margin-bottom:14px;max-width:760px}\n/* 粗描边直角卡片 */\n.card{border:3px solid var(--line);background:#fffdf6;padding:24px 26px;margin-bottom:22px;box-shadow:6px 6px 0 rgba(122,31,43,.15)}\n/* 套餐阶梯式 */\n.plans{display:flex;flex-direction:column;gap:0;max-width:820px}\n.plan{border:3px solid var(--line);background:#fffdf6;padding:24px 28px;margin-bottom:18px}\n.plan.step-2{margin-left:36px}\n.plan.step-3{margin-left:72px}\n.plan .plan-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:14px}\n.plan h3{margin-bottom:4px}\n.plan .price{font-size:26px;font-weight:700;color:var(--wine)}\n.plan .annual{font-size:14px;color:#7a5c50}\n.plan .badge{display:inline-block;background:var(--wine);color:var(--ivory);font-size:12px;letter-spacing:.2em;padding:3px 12px;margin-bottom:10px}\n.plan ul{list-style:none;margin-top:12px}\n.plan li{padding:5px 0 5px 22px;position:relative;font-size:15px;border-bottom:1px dashed rgba(122,31,43,.18)}\n.plan li::before{content:\"＋\";position:absolute;left:0;color:var(--wine);font-weight:700}\n.plan.featured{background:var(--wine);color:var(--ivory)}\n.plan.featured h3,.plan.featured .price{color:var(--ivory)}\n.plan.featured .annual,.plan.featured li{color:var(--ivory-soft)}\n.plan.featured li{border-bottom-color:rgba(247,241,227,.25)}\n.plan.featured li::before{color:var(--ivory)}\n/* FAQ 分组 */\n.faq-group{margin-bottom:40px}\n.faq-group > h3{border-left:6px solid var(--wine);padding-left:14px;margin-bottom:16px}\n.faq-item{border:3px solid var(--line);background:#fffdf6;margin-bottom:14px;padding:18px 22px;box-shadow:4px 4px 0 rgba(122,31,43,.12)}\n.faq-item .q{font-weight:700;color:var(--wine-deep);margin-bottom:8px}\n.faq-item .a{font-size:15px;color:#3d2b2f}\n/* 使用说明步骤 */\nol.steps{list-style:none;max-width:760px}\nol.steps li{border:3px solid var(--line);background:#fffdf6;padding:20px 24px;margin-bottom:16px;display:flex;gap:18px;align-items:flex-start;box-shadow:4px 4px 0 rgba(122,31,43,.12)}\nol.steps .num{font-size:30px;font-weight:700;color:var(--wine);line-height:1;flex-shrink:0}\nfooter{border-top:3px solid var(--wine);padding:34px 7% 60px;font-size:13px;color:#7a6a5d}\nfooter p{max-width:none}\n@media (max-width:820px){\n  .layout{flex-direction:column}\n  nav.side{width:100%;height:auto;position:static;flex-direction:row;flex-wrap:wrap;gap:2px 16px;padding:18px 20px;align-items:center}\n  nav.side .brand-mark{margin:0 18px 0 0}\n  nav.side a{padding:4px 0;border-left:none}\n  main{padding:0 20px 60px}\n  .plan.step-2,.plan.step-3{margin-left:0}\n}\n</style><div class=\"layout\">\n<nav class=\"side\" aria-label=\"页面目录\">\n  <a class=\"brand-mark\" href=\"#top\">Precision</a>\n  <a href=\"#plans\">机场套餐</a>\n  <a href=\"#guide\">使用说明</a>\n  <a href=\"#clients\">客户端</a>\n  <a href=\"#faq\">常见问题</a>\n</nav>\n<main id=\"top\">\n  <header class=\"hero\">\n    <h1>Precision — 把每一次连接，都调到刚刚好</h1>\n    <p class=\"tag\">你好呀，欢迎来到 <strong>Precision</strong>。我们做事的方式很简单：不堆花哨的名词，只把线路、流量和服务这些基本功一件件做扎实。下面从套餐、上手步骤到常见疑问，一次给你讲明白。</p>\n  </header>\n\n  <ol class=\"timeline\">\n    <li>\n      <span class=\"tl-time\">第一步</span>\n      <div class=\"tl-title\">挑一个合适的套餐</div>\n      <p>按自己的用量和设备数选，别为用不上的流量多花钱，这是精打细算的第一课。</p>\n    </li>\n    <li>\n      <span class=\"tl-time\">第二步</span>\n      <div class=\"tl-title\">配置好客户端</div>\n      <p>订阅链接导入，几分钟就能跑通，下面有手把手的说明。</p>\n    </li>\n    <li>\n      <span class=\"tl-time\">第三步</span>\n      <div class=\"tl-title\">有疑问随时翻 FAQ</div>\n      <p>大部分问题都有现成答案；没找到的，写工单找我们就行。</p>\n    </li>\n  </ol>\n\n  <section id=\"plans\">\n    <h2>机场套餐<span class=\"sub\">PLANS</span></h2>\n    <div class=\"rule\"></div>\n    <p>三档套餐，就像三个尺码：一个人日常用选基础版够穿；追剧、打游戏想体验更顺滑就上旗舰版；小团队一起用，团队版更划算。按年付都有折扣，长住的朋友直接按年走更省心。</p>\n    <div class=\"plans\">\n      <article class=\"plan step-1\">\n        <div class=\"plan-head\">\n          <h3>基础版</h3>\n          <span class=\"price\">¥15/月</span>\n          <span class=\"annual\">按年付仅需 ¥150/年</span>\n        </div>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n      <article class=\"plan step-2 featured\">\n        <div class=\"plan-head\">\n          <h3>旗舰版</h3>\n          <span class=\"price\">¥35/月</span>\n          <span class=\"annual\">按年付仅需 ¥350/年</span>\n        </div>\n        <span class=\"badge\">推荐</span>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n      <article class=\"plan step-3\">\n        <div class=\"plan-head\">\n          <h3>团队版</h3>\n          <span class=\"price\">¥85/月</span>\n          <span class=\"annual\">按年付仅需 ¥850/年</span>\n        </div>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>使用说明<span class=\"sub\">GETTING STARTED</span></h2>\n    <div class=\"rule\"></div>\n    <p>第一次用别紧张，四步就能跑起来。照着做，卡住了再回头看哪一步漏了：</p>\n    <ol class=\"steps\">\n      <li><span class=\"num\">01</span><div><strong>选套餐、开通账号</strong><br>先确定自己大概每月用多少流量、几台设备要同时在线，再对应上面的套餐下单，避免重复换档。</div></li>\n      <li><span class=\"num\">02</span><div><strong>拿到订阅链接</strong><br>开通后会得到一条专属订阅链接，相当于你的“通行证”，别发给别人，分享会占用你的设备名额。</div></li>\n      <li><span class=\"num\">03</span><div><strong>导入客户端</strong><br>在客户端里选择“导入订阅 / 更新配置”，粘贴链接后拉取节点列表，完成一次更新就配置好了。</div></li>\n      <li><span class=\"num\">04</span><div><strong>挑节点、测延迟</strong><br>先全量测一次延迟，选响应快的节点连上；之后定期更新订阅，就能拿到最新的节点信息。</div></li>\n    </ol>\n    <div class=\"card\">\n      <h3>日常使用小建议</h3>\n      <p>流量快到上限时可以升级到更高档位；设备数不够用也一样，换档比重新开号更省事。节点感觉变慢了，先更新订阅、换个节点试试，多数时候问题就解决了。</p>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <h2>客户端<span class=\"sub\">CLIENTS</span></h2>\n    <div class=\"rule\"></div>\n    <p>Precision 采用通用订阅格式，市面上的主流客户端大多可以直接导入使用。选哪个主要看你手头的设备习惯：</p>\n    <div class=\"card\">\n      <h3>桌面端</h3>\n      <p>Windows 与 macOS 上选择支持订阅导入的通用客户端即可，导入你的订阅链接后按需更新节点列表。旗舰版、团队版的用户建议开启客户端内的延迟测试功能，优先连接响应更快的节点。</p>\n    </div>\n    <div class=\"card\">\n      <h3>移动端</h3>\n      <p>iOS 与 Android 各有多种支持订阅格式的客户端可选。安装后在配置页粘贴订阅链接，完成首次更新即可使用。注意同一账号的同时在线设备数以套餐档位为准，超出的设备会无法连接。</p>\n    </div>\n    <div class=\"card\">\n      <h3>路由器与其他设备</h3>\n      <p>团队版支持企业定制路由，方便把整间办公室的设备统一接入；具体路由方案可在开通后通过客户经理沟通配置。</p>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题<span class=\"sub\">FAQ</span></h2>\n    <div class=\"rule\"></div>\n\n    <div class=\"faq-group\">\n      <h3>关于套餐</h3>\n      <article class=\"faq-item\">\n        <div class=\"q\">三个套餐该怎么选？</div>\n        <div class=\"a\">看两个数：每月流量和同时在线设备数。一个人轻度使用，基础版的 100GB 足够；经常看流媒体或打游戏，旗舰版的 300GB 加 IPLC 游戏加速更合适；三五人以上的小团队一起用，直接选团队版，20 台设备名额和专属高带宽节点都更宽裕。</div>\n      </article>\n      <article class=\"faq-item\">\n        <div class=\"q\">按月付和按年付差多少？</div>\n        <div class=\"a\">按年付相当于每月花十个月的钱用十二个月：基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。确定长期用的话，年付明显更划算。</div>\n      </article>\n      <article class=\"faq-item\">\n        <div class=\"q\">流量用完了怎么办？</div>\n        <div class=\"a\">可以先升级到更高档位的套餐，流量和设备数都会随之提升。建议先在控制面板看一下用量趋势，再决定换到哪一档，避免反复调整。</div>\n      </article>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>关于使用</h3>\n      <article class=\"faq-item\">\n        <div class=\"q\">订阅链接怎么用？</div>\n        <div class=\"a\">复制订阅链接后，在客户端的“订阅管理”或“导入配置”里粘贴并保存，然后手动更新一次节点列表。之后客户端一般会自动定期更新；如果发现节点失效，先手动更新订阅试试。</div>\n      </article>\n      <article class=\"faq-item\">\n        <div class=\"q\">设备数超了会怎样？</div>\n        <div class=\"a\">同一时间在线的设备数不能超过套餐上限，例如基础版是 3 台。超出的设备会连接不上，先在其他设备上退出连接，把名额空出来即可。</div>\n      </article>\n      <article class=\"faq-item\">\n        <div class=\"q\">节点变慢了怎么办？</div>\n        <div class=\"a\">先更新订阅获取最新节点，然后测一次延迟，换到响应更快的节点。旗舰版用户可以优先选择 IPLC 专线节点获得更稳定的体验；还是不行的话，提交工单让支持同学帮你看。</div>\n      </article>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>关于服务</h3>\n      <article class=\"faq-item\">\n        <div class=\"q\">遇到问题找谁？</div>\n        <div class=\"a\">提交工单是最稳妥的方式。旗舰版享有 7x24 优先工单支持，团队版还有专属客户经理一对一对接；基础版同样可以通过工单获得帮助，只是响应按普通优先级排队。</div>\n      </article>\n      <article class=\"faq-item\">\n        <div class=\"q\">团队版可以定制哪些内容？</div>\n        <div class=\"a\">团队版支持企业定制路由与专属高带宽节点，适合需要统一接入、固定线路方案的小团队或工作室。开通后可以和客户经理沟通具体的路由与节点需求。</div>\n      </article>\n    </div>\n  </section>\n</main>\n</div>\n<footer>\n  <p>Precision — 本页面为品牌介绍页，内容包括套餐说明、客户端指引与常见问题解答，供访问者参考。具体服务条款与开通方式以实际提供方为准。</p>\n</footer>",
+          "hash": "55ba2bf13d08d9f178f178a2674986dfc897ee5724c10610933f3a63ca74da65",
+          "seo": {
+            "title": "Precision官网｜Precision机场套餐、客户端与使用说明",
+            "keywords": "Precision,Precision官网,Precision机场,Precision机场官网,机场套餐,机场客户端,机场使用说明",
+            "description": "Precision官网提供Precision机场套餐价格说明、客户端配置指引与常见问题解答，涵盖基础版、旗舰版、团队版三种套餐的流量、设备数与线路权益，帮助新用户快速上手。"
+          },
+          "provider": "deepseek",
+          "model": "glm-5.3",
+          "design": {
+            "no": "1837",
+            "hero": "6 纵向时间线引入",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fjxax.cn",
+    "host": "p-92836ed1d6.fjxax.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6698fa95e8ba300c49b240058a43753799ad2a18eedc6a880e3bd39f81ce92ca",
+    "sitemap.xml": "cbac3883617599343e746fbc1a75ff64a728edf7777c7ef4c62f096bc35f99d0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "498d1893de4496a541d66b5ce79d9757a386f3d34ee0d6048596c6f42792f08e",
+    "robots.txt": "d9803aa9a02c37989bf73b1eacd2470a5d9ad58fb29b018d923baa01f5392441",
+    "c88b80097ff4dbaa39d08d0611157acb.txt": "929c3ddc3ad089c6f4ba5bec8ac4a015c2560780481af6ccd84ddcb76bc7ed32"
+  },
+  "revision": "dcf8d9c155c0da8d278ff8846c6cad55260bf4bed91fd61d7dab85bba784731f"
+}
